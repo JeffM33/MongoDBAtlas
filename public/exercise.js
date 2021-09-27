@@ -49,6 +49,7 @@ function handleWorkoutTypeChange(event) {
   validateInputs();
 }
 
+//models need to look like this
 function validateInputs() {
   let isValid = true;
 
